@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Patil
-- 👀 I’m not sure what I am intrested in as I just started programming
+- 👀 I’m currently learning android development in Kotlin
 - 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate on anything realated to things I m learning
 - 📫 You can reach me at patil.vaibhav2147.vp@gmail.com
