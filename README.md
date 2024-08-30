@@ -17,6 +17,13 @@ I’m a final-year Computer Science student passionate about Android development
   - Swipe to refresh feature integrated using the accompanist library.
 - **Technologies Used:** Kotlin, Jetpack Compose, MVVM Architecture, Hilt for dependency injection, Retrofit, Paging3, Coil, WorkManager, Preferences DataStore.
 
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-214&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-214&show_icons=true&theme=radical)
+
+
 ## 🎯 Future Goals
 - Continue exploring Android development in greater depth and gain mastery in Kotlin Multiplatform.
 - Looking forward to exploring backend development to understand the complete system architecture.
