@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vaibhav Patil
 
-I’m a final-year Computer Science student passionate about Android development and Kotlin Multiplatform. Currently, I’m working on a Kotlin Multiplatform app that allows users to upload, rent, buy, and sell books. This project will be coming soon, so stay tuned!
+I’m a final-year Computer Science student passionate about Android development and Kotlin Multiplatform.
 
 ## 🚀 Current Focus
 - Deepening my expertise in Android development using Kotlin and Jetpack Compose.
